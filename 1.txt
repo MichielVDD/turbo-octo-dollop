@@ -1,3 +1,5 @@
 Dit is een test
 
+Dit is een developt commit
+
 Dit is de eerste hotfix
