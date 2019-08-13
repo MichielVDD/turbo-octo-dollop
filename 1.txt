@@ -1,3 +1,5 @@
 Dit is een test
 
+Nieuwe zaken gedaan in dev branch
+
 Dit is de eerste hotfix
